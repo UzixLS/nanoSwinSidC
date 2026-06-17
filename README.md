@@ -1,6 +1,6 @@
 ## nanoSwinSidC
 
-[![photo](images/pcb-top.small.jpg)](images/pcb-top.jpg?raw=true) [![photo](images/pcb-bottom.small.jpg)](images/pcb-bottom.jpg?raw=true)
+[![photo](images/pcb-top.small.jpg)](images/pcb-top.jpg) [![photo](images/pcb-bottom.small.jpg)](images/pcb-bottom.jpg)
 
 SID emulator on ATmega.
 
